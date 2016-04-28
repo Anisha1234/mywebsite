@@ -1292,14 +1292,18 @@ p {
 }
 .lead {
   margin-bottom: 20px;
-  font-size: 16px;
-  font-weight: 300;
-  line-height: 0.7%;
+  font-size: 20px;
+  font-weight: 304;
+  line-height: 0.7;
 }
+
 @media (min-width: 768px) {
   .lead {
-    font-size: 21px;
+    font-size: 20px;
   }
+}
+
+
 }
 small,
 .small {
@@ -6797,4 +6801,6 @@ button.close {
     display: none !important;
   }
 }
+
+
 /*# sourceMappingURL=bootstrap.css.map */
